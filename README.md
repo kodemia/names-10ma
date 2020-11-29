@@ -9,4 +9,8 @@
 7. ceenti - cinthia
 8. itzideltoro - itzi 
 9. Crismoo - Cristobal Moo
+<<<<<<< HEAD
 10. Silver899 - Shari
+=======
+10. LuisDOlvera - Luis Daniel
+>>>>>>> master
