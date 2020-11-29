@@ -8,3 +8,9 @@
 7. ceenti - cinthia
 8. itzideltoro - itzi 
 9. DevPedroA78 - Pete
+9. Crismoo - Cristobal Moo
+10. LuisDOlvera - Luis Daniel
+
+12. DevPedroA78 - Pete
+
+
