@@ -9,4 +9,5 @@
 8. itzideltoro - itzi 
 9. Crismoo - Cristobal Moo
 10. LuisDOlvera - Luis Daniel
-11. Silver899 - Shari
+11. Najeradev - Emmanuel
+12. Silver899 - Shari
